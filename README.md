@@ -1,8 +1,14 @@
 Account Management System
+
+
 Overview
+
+
 This project is a Qt-based application for managing accounts. The application provides functionalities to add, update, delete, search by name, and search by number of accounts. The project is intended to demonstrate the use of Qt for building GUI applications with functionalities typically required in account management systems.
 
 Features
+
+
 Add Account: Add a new account with details such as name, account number, etc.
 Update Account: Update the details of an existing account.
 Delete Account: Remove an account from the system.
