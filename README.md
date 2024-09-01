@@ -31,7 +31,7 @@ CMake (optional): If using CMake for project build.
 Installation
 
 Copy code
-git clone https://github.com/yourusername/account-management-qt.git
+git clone https://github.com/Lily0335/account-management-qt.git
 cd account-management-qt
 
 Open the Project:
