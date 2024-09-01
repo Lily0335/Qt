@@ -10,24 +10,30 @@ Features
 
 
 Add Account: Add a new account with details such as name, account number, etc.
+
 Update Account: Update the details of an existing account.
+
 Delete Account: Remove an account from the system.
+
 Search by Name: Find an account using the account holder's name.
+
 Search by Number: Find an account using the account number.
+
 Admin Login: Secure login for admins to manage the account data.
+
 Prerequisites
+
 Before running this project, make sure you have the following installed:
 
 Qt Framework: Version 5.15 or later.
 C++ Compiler: Compatible with the Qt version.
 CMake (optional): If using CMake for project build.
 Installation
-Clone the Repository:
 
-bash
 Copy code
 git clone https://github.com/yourusername/account-management-qt.git
 cd account-management-qt
+
 Open the Project:
 
 Open the .pro file using Qt Creator or any other compatible IDE.
