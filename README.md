@@ -55,19 +55,33 @@ File Operations:
 
 Accounts data can be loaded from and saved to a file, allowing for persistent data storage.
 File Structure
+
 main.cpp: Entry point of the application.
+
 MainPanel.cpp/.h: Implements the main panel with account management features.
+
 AdminLogin.cpp/.h: Handles the admin login functionality.
+
 Person.cpp/.h: Represents a person with basic attributes.
+
 Account.cpp/.h: Represents an account with attributes such as account number.
+
 SavingsAccount.cpp/.h: Inherits from Account, represents a savings account.
+
 data.txt (or any other format): File for storing account data.
+
 Future Enhancements
+
 Implement user roles with different permissions.
+
 Add validation for user inputs.
+
 Enhance the UI with additional features and better usability.
+
 Add unit tests for key functionalities.
+
 Contributing
+
 Feel free to fork this repository and contribute via pull requests. Any help to improve the project is welcome!
 
 License
